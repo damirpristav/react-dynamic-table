@@ -2,4 +2,4 @@
 
 [Live Preview](https://apps.damirpristav.com/react-table/)
 
-<!-- [Blog Post](https://codingfromscratch.dev/reactjs-modal-component/) -->
+[Blog Post](https://codingfromscratch.dev/reactjs-dynamic-responsive-table-component/)
